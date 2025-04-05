@@ -58,7 +58,7 @@ print(f"La suma de todos los números comprendidos entre 0 y el número ingresad
 # Luego, el programa debe indicar cuántos de estos números son pares, cuántos son impares, cuántos son negativos y cuántos son positivos. 
 # (Nota: para probar el programa puedes usar una cantidad menor, pero debe estar preparado para procesar 100 números con un solo cambio).
 numero_usuario_8 = 0
-numero_intentos = 3
+numero_intentos = 100
 cantidad_positivos = 0
 cantidad_negativos = 0
 cantidad_pares = 0
@@ -77,7 +77,7 @@ print(f"La cantidad de números positivos ingresados es {cantidad_positivos}, de
 
 # 9) Elabora un programa que permita al usuario ingresar 100 números enteros y luego calcule la media de esos valores. 
 # (Nota: puedes probar el programa con una cantidad menor, pero debe poder procesar 100 números cambiando solo un valor).
-numero_intentos_9 = 3
+numero_intentos_9 = 100
 total_acumulado = 0
 media = 0
 numero_usuario_9 = 0
